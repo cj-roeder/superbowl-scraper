@@ -13,6 +13,8 @@ chmod +x scraper.py
 
 The scraper runs 3 times with 1, 8, and 14 workers, prints how long each run took, then lists each Super Bowl's MVP.
 
+## Real OUTPUT
+<img width="458" height="249" alt="Screenshot 2026-11-03 at 9 36 37 PM" src="https://github.com/user-attachments/assets/d449d877-7e0b-4a77-9a6a-8567a5f375a4" />
 
 ## Performance impacts
 
