@@ -18,7 +18,7 @@ The scraper runs 3 times with 1, 8, and 14 workers, prints how long each run too
 
 ## Performance impacts
 
-These results use the first 10 games (set by the `urls = urls[:10]` line in the scraper). Delete that line to scrape all ~60 games.
+These results use the first 10 games that are linked on the wiki page (set by the `urls = urls[:10]` line in the scraper). Delete that line to scrape all ~60 games.
 
 | workers | seconds | speedup (x) |
 |---|---|---|
